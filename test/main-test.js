@@ -1,4 +1,4 @@
-var test = require('../main/main.js');
+var test = require('./main.js');
 
 describe('pos', function () {
     var inputs;
